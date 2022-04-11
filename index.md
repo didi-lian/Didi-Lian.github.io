@@ -14,7 +14,7 @@ Didi Lian is a postgraduate student in the School of Information at Renmin Unive
 
 2.Sep.2016 ~ Jul.2020: B.S. in School of Information, Renmin University of China.
 ## Research direction
-Personalized information retrieval, Big data, Machine learning
+Personalized information retrieval, Big data, Natural language processing.
 ## Project research
 [To be submitted] "Personalized Web Search based on Personal Knowledge Graph", **Didi Lian**, Jing Yao, Zhicheng Dou, Jirong Wen.
 
